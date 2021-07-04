@@ -1,0 +1,2 @@
+#It determines which coin type the economy will use.
+coinType: 'BTC'
