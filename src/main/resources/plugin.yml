@@ -1,0 +1,12 @@
+name: CryptoMarketEconomy
+version: ${project.version}
+main: com.mehmet_27.cryptomarketeconomy.CryptoMarketEconomy
+depend:
+  - ShopGUIPlus
+  - CryptoMarket
+api-version: 1.16
+author: Mehmet_27
+commands:
+  cmeconomy:
+    description: Main command
+    permission: cmeconomy.use
